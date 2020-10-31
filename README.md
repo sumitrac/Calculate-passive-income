@@ -1,2 +1,3 @@
 # Calculate-passive-income-
-Calculate passive income among friends 
+##This program calculates passive income among three friends
+###Tech Stack: Python 3
